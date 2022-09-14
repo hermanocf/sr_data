@@ -1,0 +1,15 @@
+"id","name","ip_address","rabbitmq_task_group","datacenter_room_id","api_token","api_url","central_sr_synced","uuid","enabled"
+2,"lancium_box_1_tr","10.2.40.180","lb_tr_1",1,"d06c9bdf0ea39e4aaeeb470b7913da6631638f90","http://10.2.40.180/api",False,"00c48284-5e32-49c8-81c2-dee946fdb764",True
+3,"lb_a_01",NULL,NULL,2,"","",False,"b222e304-16e1-4e2b-8739-ab0487e9c20d",True
+4,"lb_a_02",NULL,NULL,2,"","",False,"8c92bedc-26de-4f3d-bd20-a3db7e232f5a",True
+5,"lb_a_03",NULL,NULL,3,"","",False,"dc349b4a-ad07-4c87-aacf-43d0618879d4",True
+6,"lb_b_01",NULL,NULL,3,"","",False,"71dba872-7cb3-4a1b-a602-4f70be0b4338",True
+7,"lb_b_02",NULL,NULL,3,"","",False,"14e94730-3ce3-4765-97e6-453fce0f4aff",True
+8,"lb_b_03",NULL,NULL,3,"","",False,"f89863dd-a707-436e-ac49-9f9061dd1d49",True
+9,"lb_c_01",NULL,NULL,3,"","",False,"a8f0a98c-946c-41ee-b42e-6de5f14ead06",True
+10,"lb_c_02",NULL,NULL,6,"","",False,"bce7da26-0329-45c2-8f30-28e86de8d380",True
+11,"lb_bs_01","10.3.10.250","lb_bs_01",4,"e66631a9b52f100db4916512dd0b9a603712b316","http://10.3.10.250:8080/api",False,"ee664c09-c8a3-4ed6-891e-b31d38538cb6",True
+12,"lb_by_01","10.20.0.5",NULL,7,"688eb1f6d0d4455ec30cc9e47fbae1e4cf36f201","",False,"0644ab65-ca37-4605-9673-5b050f33079a",True
+13,"rkd-b-lb-x2","172.20.1.12","lb_rdk_b_x2",3,"44dfa9976f7d910cebff13ad4c0fd49b763816f7","http://172.20.1.12/api",False,"adf712bf-5b3c-4f99-a440-70143ed50ad2",True
+14,"rkd-b-lb-x3","172.20.1.13","lb_rdk_b_x3",3,"4acb0fbf6fa8701e21cc47e0be2ee55590943437","http://172.20.1.13/api",False,"310222e7-d2ad-415a-aab7-1f65cf4b14b1",True
+15,"FST01_LB_00A","10.30.1.4","lb_1",8,"8f8537fc734cf8fd5f13908509ca97e17cdee1e3","http://10.30.1.4/api",False,"b0da6c9b-8dd6-4f29-9143-1dfb5ee4af8a",True
